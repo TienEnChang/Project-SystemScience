@@ -1,0 +1,4 @@
+bind-addr: 10.140.0.2:8080  #internal ip
+auth: password
+password: tim739739
+user-data-dir: /home/erathyx/settings/code-server/user-data

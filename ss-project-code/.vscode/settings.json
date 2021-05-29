@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/erathyx/settings/miniconda3/bin/python3.8",
+    "python.linting.enabled": false,
+    "python.linting.pylintEnabled": false,
+}
