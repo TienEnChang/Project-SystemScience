@@ -3,7 +3,7 @@ import RL_n_Game.Animation as Ani
 
 from RL_n_Game.Coach import Coach
 from RL_n_Game.Game import Game
-from Not_Using.NeuralNet import NeuralNet
+from RL_n_Game.NeuralNet import NeuralNet
 
 import os
 import numpy as np
