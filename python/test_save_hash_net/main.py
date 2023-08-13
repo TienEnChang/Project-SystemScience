@@ -78,7 +78,7 @@ def Animate(C):
     Ani.Ba = args.Ba
     Ani.Bc = args.Bc
 
-    folder_path = '/home/erathyx/jupyter-notebook/result_'+f'{args.folder_n}'
+    folder_path = './result_'+f'{args.folder_n}'
     os.system('mkdir '+folder_path)
 
     Ani.plot_settings()
